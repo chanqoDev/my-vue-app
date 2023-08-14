@@ -39,5 +39,8 @@
     "last 2 versions",
     "not dead",
     "not ie 11"
-  ]
+  ],
+  "main": "index.js",
+  "author": "Christian E. <christianelena92@gmail.com>",
+  "license": "MIT"
 }
